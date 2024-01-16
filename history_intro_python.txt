@@ -1,0 +1,26 @@
+    1  git remote add origin https://github.com/isiloral/coding_for_economists.git
+    2  git branch -M main
+    3  git push -u origin main
+    4  git add main.py
+    5  git commit -m "Added main.py"
+    6  git config --global user.email "isiloral.io@gmail.com"
+    7  git config --global user.name "Isil Oral"
+    8  git remote add origin https://github.com/isiloral/coding_for_economists.git
+    9  git branch -M main
+   10  git push -u origin main
+   11  git config credential.username "isiloral"
+   12  git push -u origin main
+   13  git push -u origin main
+   14  git status
+   15  git commit -m "Added main.py"
+   16  git status
+   17  git push -u origin main
+   18  python
+   19  python
+   20  git status
+   21  git add main.py
+   22  git commit -m "Coded solution to string slicingexercise"
+   23  git push -u oriign main
+   24  git push -u origin main
+   25  history
+   26  history > history_intro_python.txt
