@@ -1,0 +1,26 @@
+    1  mv main.py 03_python_lists.py
+    2  git add 03_python_lists.py 
+    3  git commit -m "Added script to introduce lists"
+    4* git config --global user.email "isiloral.io@gmail.com"
+    5  git global --config user.email "isiloral.io@gmail.com"
+    6  git global --config user.email "isiloral.io@gmail.com"
+    7  git config --global user.email "isiloral.io@gmail.com"
+    8  git config --global user.email "isiloral"
+    9  git config credential.username "isiloral"
+   10  git commit -m "Added script to introduce lists"
+   11  git config --global user.email "isiloral.io@gmail.com"
+   12  git config --global user.name "isiloral"
+   13  git config credential.username "isiloral"
+   14  git commit -m "Added script to introduce lists"
+   15  git push
+   16  touch main.py
+   17  mv main.py 04_python_dictionaries.py
+   18  git add 04_python_dictionaries.py 
+   19  git commit -m "Added script for dictionairies"
+   20  git push
+   21  touch main.py
+   22  mv main.py 05_python_sets.py
+   23  git add 05_python_sets.py 
+   24  git commit -m "Added scripts for sets"
+   25  git push
+   26  history > history_jan18_python01.txt
